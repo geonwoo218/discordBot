@@ -1,0 +1,16 @@
+{
+  "name": "discordBot",
+  "version": "1.0.0",
+  "main": "mainFile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "디코봇임",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "dotenv": "^16.4.5"
+  }
+}
